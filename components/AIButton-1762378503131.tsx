@@ -1,0 +1,1 @@
+Desculpe, mas você poderia fornecer mais detalhes sobre o que você precisa? Por exemplo, você está procurando um componente específico em React, ou talvez um exemplo de como usar o Next.js com TypeScript e Tailwind?
